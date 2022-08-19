@@ -15,9 +15,11 @@ impress your friends, prank them with this tool.
 
 (5) cd Fake_NASA_HACK
 
-(6) chmod +x start
+(6) cd Nasa_Attack/
 
-(7) ./start
+(7) chmod +x start
+
+(8) ./start
 
 ALL DONE then start using it.
 ------------------------------------------------------------------------------------------
@@ -33,9 +35,11 @@ ALL DONE then start using it.
 
 (5) cd Fake_NASA_HACK
 
-(6) chmod +x start
+(6) cd Nasa_Attack/
 
-(7) ./start
+(7) chmod +x start
+
+(8) ./start
 
 ALL DONE then start using it.
 -------------------------------------------------------------------------------------------------
